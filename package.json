@@ -1,8 +1,8 @@
 {
-  "name": "getting-started",
-  "version": "1.0.0",
+  "name": "headless-shopify",
+  "version": "0.0.1",
   "private": true,
-  "description": "WordPress Headless Getting Started Template",
+  "description": "This repo demonstrates how you can use the Shopify API and Headless WordPress to build a small ecommerce site.",
   "main": "index.js",
   "scripts": {
     "build": "next build",
